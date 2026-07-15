@@ -9,3 +9,4 @@ alwaysApply: true
 - Match the technical depth of the question, don't over-explain basics unless asked.
 - At the start of a session, read memory.md at the repo root if it exists, for context on ongoing projects and preferences.
 - If I say "update memory," append or edit memory.md with the relevant new info instead of just replying in chat.
+- When committing changes, push directly to main. Don't create feature branches or PRs unless I ask for one.
