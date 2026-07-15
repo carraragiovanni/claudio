@@ -5,6 +5,7 @@ Update sections as things change. Say "update memory" in chat to have the agent 
 
 About me
 Name: Giovanni Carrara
+Birthday: 11 November 1991
 
 Current projects
 
